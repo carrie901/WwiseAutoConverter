@@ -1,0 +1,19 @@
+:: English Translate
+set program=WWISE Auto-Converter by ProDEAGLE
+set start_message=WWISE Auto-Converter 1.5
+set stop_message=ERROR: Bin Folder Not Found!
+set choice_format=Choise Format
+set encode=Encode
+set decode=Decode
+set clear_folders=Clear Folders
+set back=Back
+set exit=Exit
+set title_bnkdec=[Running] Unpacking bnk...
+set title_wemdec=[Running] Decoding wem...
+set title_temp=[Running] Deleting Temporary Files...
+set title_move=[Running] Moving...
+set title_error=[Stopped] Files Not Found!
+set title_clean=[Running] Cleaning...
+set clear_done=Cleaning Complete!
+set error=ERROR: Files Not Found!
+set dec_success=Decode Complete!
