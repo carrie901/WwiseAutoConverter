@@ -1,17 +1,17 @@
 WWISE Batch-Converter v1.6
 ==========================
 
- Скрипт для автоматической распаковки игровых архивов со звуками - pck, bnk, и последующего декодирования wem файлов в формат: ogg, wav, mp3.
- Поддерживает игры от Xbox360.
+Script for the automatic unpacking archives with sounds - pck, bnk, and subsequent decoding wem files into a format: ogg, wav, mp3.
+Xbox360 Support.
 
-##Инструкция:##
+##Instruction:##
 
- 1. Копируем pck, bnk, wem файлы в папку input.
- 2. Запускаем converter.bat
- 3. Выбираем опцию "Декодировать".
- 4. Выбираем формат.
- 5. Ждем завершения процесса конвертирования.
- 6. Забираем готовые файлы из папки output.
+ 1. Copy pck, bnk, wem files in a "input" folder.
+ 2. Run converter.bat
+ 3. Select Option "Decode".
+ 4. Select Format.
+ 5. Waiting for the completion of the conversion process.
+ 6. Taking ready files from a "output" folder.
 
-Для быстрой очистки папок bin, input и output - используйте опцию "Очистить папки".
-Настройки находятся в файле "bin/settings.cmd"
+For quick cleaning folders bin, input и output - use option "Clean Folders".
+Settings can be found in the file "bin/settings.cmd"
