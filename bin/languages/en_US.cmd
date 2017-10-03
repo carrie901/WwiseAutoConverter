@@ -1,5 +1,5 @@
 :: English Translate
-set choice_format=Choise Format
+set choice_format=Choice Format
 set encode=Encode
 set decode=Decode
 set clear=Clear Folders
