@@ -16,7 +16,7 @@ exit
 md input
 md output
 :main
-title ProDEAGLE's WWISE Batch-Converter 1.6
+title WWISE Batch Converter
 cls
 color 7
 echo.
